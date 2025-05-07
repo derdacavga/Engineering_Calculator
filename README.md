@@ -51,3 +51,5 @@ Multi-line input and history
 Dark/light theme toggle
 
 Save and recall calculations
+
+Tutorial link : https://youtu.be/t3zZAPMOZzM
